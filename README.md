@@ -12,3 +12,9 @@ Post process the profiles to compare to experimental data
 
 * Periodic Hill
 Post process the profiles to compare to experimental data
+
+* T Junction
+Post process the profiles to compare to experimental data
+
+* Performance
+Post process performance.log
